@@ -1,7 +1,7 @@
 name: vinni
 favicon: null
-layout_spectrum: 0.44529507076367736
-typography_spectrum: 0.8118085879832506
+layout_spectrum: 0.09556
+typography_spectrum: 0.38127
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.1107511012814939
-  lightness: 0.9298721484374255
-  saturation: 0.55644850153476
-  rhythmicContrast: 0.12869646726176143
+    - '#fffeff'
+    - '#60a071'
+    - '#015762'
+    - '#b15400'
+    - '#e9c25f'
+  brandStrength: 0.6875
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
