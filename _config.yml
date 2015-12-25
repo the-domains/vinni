@@ -1,0 +1,28 @@
+name: vinni
+favicon: null
+layout_spectrum: 0.44529507076367736
+typography_spectrum: 0.8118085879832506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1107511012814939
+  lightness: 0.9298721484374255
+  saturation: 0.55644850153476
+  rhythmicContrast: 0.12869646726176143
+purpose: []
